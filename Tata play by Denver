@@ -12,6 +12,8 @@ http://103.162.136.235:4500/play/a017/index.m3u8
 http://103.162.136.235:4500/play/a015/index.m3u8
 #EXTINF:-1 group-title="Denver Live IPTV",Star Sports 2 HD
 http://103.162.136.235:4500/play/a016/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Star Sports 3
+http://103.162.136.235:4500/play/a013/index.m3u8
 #EXTINF:-1 group-title="Denver Live IPTV",Star Sports Select 1 HD
 http://103.162.136.235:4500/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Denver Live IPTV",Star Sports Select 2 HD
