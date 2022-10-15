@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Denver😎
 REAL Name Dev
 - 👀 here you can enjoy IPTV for free 
-- 📫 How to reach me ... Instagram - @memes_masti_fun
-disclaimer Whatever I provide to you people, that is already available on the internet, I can only provide it from here for the entertainment purposes of the people.
+- 📫 join in telegram for update @DenverIPTV
+- 
+disclaimer-:
+What ever i provide that thing already available on the internet for free, So I have only a way who takes the people to him destination that's it.🥰
