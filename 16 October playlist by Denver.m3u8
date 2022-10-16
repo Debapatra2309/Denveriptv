@@ -1,0 +1,578 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
+#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+#EXTM3U
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml.gz"
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star JALSHA HD 1
+http://50.7.237.4:8080/STARJALSHA/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Bflix Movies
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star Vijay
+http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Sun TV
+http://50.7.237.4:8080/SUNTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star maa
+http://50.7.237.4:8080/STARMAAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",KTV HD
+http://50.7.237.4:8080/KTVHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star maa gold
+http://50.7.237.4:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Etv TELUGU
+http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star maa gold
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star maa music
+http://89.187.179.108:8080/MaaMusic-telu/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",STAR MAA TV
+http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",STAR SUVARNA
+http://89.187.179.108:8080/SuvarnaTV-Kannada/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Gemini tv
+http://89.187.179.108:8080/GEMINITVHD/LOCAL/TEL/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Gemini movies
+http://89.187.179.108:8080/GeminiMovies-telu/index.m3u8?token=test
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Sony Max
+http://50.7.237.4:8080/SONYMAXHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Utsav Bharat
+http://50.7.237.4:8080/STARBHARATHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Star Gold HD
+http://50.7.237.4:8080/STARGOLDHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TATA PLAY BY Denver(New 2.O)",Zee Cinema
+http://50.7.237.4:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Star gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 ,Sony Max HD
+http://50.7.237.4:8080/SONYMAXHD/index.m3u8
+#EXTINF:-1 ,Sony max
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee cinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+#EXTINF:-1 ,ZEE ACTION
+http://208.115.215.42/ZEE_ActIon_HD/index.m3u8
+#EXTINF:-1 ,GEO TV
+http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,KHUSHBOO BANGLA
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 ,Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 ,Star gold 2 SD
+http://50.7.237.4:8080/STARGOLD2/index.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://50.7.237.4:8080/ZEECINEMAHD/index.m3u8
+#EXTINF:-1 ,Zee Bangla Cinema
+http://208.86.19.13:81/708.stream/index.m3u8
+#EXTINF:-1 ,National Geographic Bangla HD
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY
+http://221.120.204.3/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Akash Aath
+http://208.86.19.13:81/902.stream/index.m3u8
+#EXTINF:-1 ,Sony AAth
+http://50.7.237.4:8080/SONYAATH/index.m3u8
+#EXTINF:-1 ,ZING
+http://50.7.237.4:8080/ZING/index.m3u8
+#EXTINF:-1 ,Sony HD
+http://50.7.237.4:8080/SONY/index.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Show-Time HD 4K
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="Denver Live IPTV",Pogo
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,Surya tv
+http://50.7.237.4:8080/SURYAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,RAJ digital plus
+http://50.7.237.4:8080/RAJDIGITALPLUS/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Nick Jr. Dora TV [Pluto]
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1 ,Tortues Ninja [Pluto]
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 ,MTV Hits
+http://50.7.237.4:8080/MTVHITS/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,MTV 90s
+http://85.17.17.249/mtv_rocks/index.m3u8
+#EXTINF:-1 ,MTV 90s²
+http://50.7.237.4:8080/MTVBASE/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,NICK Music
+http://85.17.17.249/MTV_MUSIC/index.m3u8
+#EXTINF:-1 ,MTV 00s
+http://38.143.137.221:8000/LA49/index.m3u8
+#EXTINF:-1 ,Horror Channel
+http://50.7.237.4:8080/HORRORCHANNEL/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1 group-title="Sports",SONY SIX
+http://50.7.237.4:8080/SONYSIXHD/index.m3u8
+#EXTINF:-1 group-title="Cricket Session ( Denver ) " tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg",Star Sports 1 HD
+https://cdn1.mkhossain.ga/hls/star1en/.m3u8
+#EXTINF:-1 group-title="Cricket Session ( Denver ) " tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg",Star Sports 1 HD
+https://tsneh.vercel.app/denver5654654
+#EXTINF:-1 group-title="Cricket Session ( Denver ) " tvg-logo="http://tv.hotflix.stream/uploads/tv_image/star-sports-1-7y8rftmed9ur.jpg",Star Sports Hindi 1 HD
+https://tsneh.vercel.app/star1denvery6667
+#EXTINF:-1 group-title="Cricket Session ( Denver ) " tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD
+https://tsneh.vercel.app/denver565465465
+#EXTINF:-1 group-title="Cricket Session ( Denver ) " tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD
+https://tsneh.vercel.app/denver6545676
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/i/lf/0/1647385004/1540.png",BT Sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bt-sport-3.png",BT Sports 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",Astro Cricket
+http://quality-restream.com:8080/live/asadmanzur/39e379b23d/157565.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X JALVA " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",9X JALVA 
+http://50.7.237.4:8080/9XJALWA/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",9XM 
+http://50.7.237.4:8080/9XM/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",AAJ TAK HD 
+http://watchindia.net:8880/live/vvv/vvv/807.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANCIENT MALYLAM " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ANCIENT MALYLAM 
+http://50.7.237.4:8080/ASIANETHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U MOVIES" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",B4U MOVIES
+http://50.7.237.4:8080/B4UMOVIES/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U MUSIC" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",B4U MUSIC
+http://50.7.237.4:8080/B4UMUSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",CARTOON NETWORK
+http://50.7.237.4:8080/CARTOONNETWORK/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS CINEPLEX HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",COLORS CINEPLEX HD 
+http://31.172.87.20:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS RISHTEY " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",COLORS RISHTEY 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6586/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TAMIL " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",DISCOVERY TAMIL 
+http://50.7.237.4:8080/DISCOVERYTAMIL/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOOD FOOD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",FOOD FOOD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6583/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",HUNGAMA 
+http://31.172.87.20:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBN LOKMAT" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",IBN LOKMAT
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6661/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ISHVAR " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ISHVAR 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6618/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV BEATS HD" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",MTV BEATS HD
+http://31.172.87.20:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV. INDIA" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",MTV. INDIA
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6582/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",MUSIC INDIA
+http://50.7.237.4:8080/MUSICINDIA/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV INDIA " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",NDTV INDIA 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6620/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC PANJAB GOLD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",PTC PANJAB GOLD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6686/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REPUBLIC TV " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",REPUBLIC TV 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6629/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SADHNA NEWS " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SADHNA NEWS 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6619/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATSANG " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SATSANG 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6624/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SLY SPORTS CRICKET" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SLY SPORTS CRICKET
+http://1tv1.net:8080/live/01007888688/28464975/55387.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SONY MAX 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6574/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY PAL " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SONY PAL 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6626/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SONY SAB 
+http://50.7.237.4:8080/SONYSABHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY yeh " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SONY yeh 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6627/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR BHARAT HD 
+http://31.172.87.20:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR GOLD HD 
+http://50.7.237.4:8080/STARGOLDHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR GOLD SELECT 
+http://31.172.87.20:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR PLUS HD 
+http://31.172.87.20:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR SPORTS 1 HD 
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR SPORTS 1 HD 
+http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR SPORTS 1 HD 
+http://watchindia.net:8880/live/vvv/vvv/808.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR SPORTS 2 HD 
+http://31.172.87.20:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR SPORTS HINDI 
+http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS KANADA" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR SPORTS KANADA
+http://103.147.87.13:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR VIJAY 
+http://31.172.87.20:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",STAR VIJAY HD 
+http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",SUN TV HD
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6692/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UDYA " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",UDYA 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6648/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE ANMOL 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6708/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BANGLA HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE BANGLA HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6636/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE BUSINESS" tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE BUSINESS
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6599/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE CINEMA 
+http://50.7.237.4:8080/ZEECINEMAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMALU HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE CINEMALU HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6577/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CLASSIC " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE CLASSIC 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6596/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE MARATHI HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE MARATHI HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6658/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TALKIES HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE TALKIES HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6660/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE TAMIL HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6704/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TELGU " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE TELGU 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6646/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD " tvg-logo="" group-title="DISH TV 2.0 BY DENVER",ZEE TV HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6576/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak" tvg-logo="http://127.0.0.1/" group-title="DISH TV 2.0 BY DENVER",Aaj Tak
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab HD" tvg-logo="http://127.0.0.1/" group-title="DISH TV 2.0 BY DENVER",Sony Sab HD
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg" group-title="Cricket Session ( Denver ) ",Star Sports 1 Hindi HD
+https://3uog.short.gy/Live_events.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS HD" tvg-logo="" group-title="Cricket Session ( Denver ) ",Sky Sports English
+https://Join_us_on_Telegram_bjtechknowledge_24@3uog.short.gy/BEIN_SPORTS_ENGLISH_BJTECHKNOWLEDGE_2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS HD" tvg-logo="" group-title="Cricket Session ( Denver ) ",Sky sports HINDI
+https://JOIN_US_ON_TELEGRAM_BJTECHKNOWLEDGE_24@3uog.short.gy/BJTECHKNOWLEDGE_2_STAR_SPORTS_1HD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD " tvg-logo="" group-title="Cricket Session ( Denver ) ",WILLOW CRICKET HD 
+https://ddy1.vhls.ru.com/ddy1/premium346/tracks-v1a1/mono.m3u8?|User-agent=Sportzfy&Referer=https://streamservicehd.click/&cookie=Sportzfy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="Cricket Session ( Denver ) ",STAR SPORTS HD 1 HINDI
+http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_2105335046/list/1170x658379547401.png" group-title="JioTV+",&flix HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-pictures/list/1170x658withlog_1269578414.png" group-title="JioTV+",&Pictures
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-pictures
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-tvpictureshd/list/1170x658withlog1476130363.png" group-title="JioTV+",&Pictures HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="0-9-privÃ©hd" tvg-name="&Prive HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-privÃ©hd/list/1170x658withlogo375086496.png" group-title="JioTV+",&Prive HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-privÃ©hd
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-tvhd_0/list/1170x658withlogo378606665.png" group-title="JioTV+",&TV HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-tvhd_0
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-209/list/1170x658withlogo358457080.png" group-title="JioTV+",&xplorHD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-209
+#EXTINF:-1 tvg-id="0-9-24ghantatv" tvg-name="24 Ghanta" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-24ghantatv/list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png" group-title="JioTV+",24 Ghanta
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-24ghantatv
+#EXTINF:-1 tvg-id="0-9-aajtak" tvg-name="Aaj Tak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-aajtak/list/aajtak117057ed0b609d504a6098d5d3b0c9f822c3.png" group-title="JioTV+",Aaj Tak
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-aajtak
+#EXTINF:-1 tvg-id="0-9-402" tvg-name="ABP Ananda" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-402/list/abpananda1170c77c5041dab94531aae8870da9d700f6.png" group-title="JioTV+",ABP Ananda
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-402
+#EXTINF:-1 tvg-id="0-9-403" tvg-name="ABP Asmita" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-403/list/abpasmita1170cc94817b7b924ed49fc3e3f7ce40bb40.png" group-title="JioTV+",ABP Asmita
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-403
+#EXTINF:-1 tvg-id="0-9-399" tvg-name="ABP Ganga" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-399/list/abpganga11702b5d476112bd446f8421efdc501e2b1f.png" group-title="JioTV+",ABP Ganga
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-399
+#EXTINF:-1 tvg-id="0-9-400" tvg-name="ABP Majha" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-400/list/abpmajha1170116c55777e374555a095bbdab4d5a925.png" group-title="JioTV+",ABP Majha
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-400
+#EXTINF:-1 tvg-id="0-9-398" tvg-name="ABP NEWS" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-398/list/abpnews1170cea104f42bd64ba18ae03ecff5fcf2b1.png" group-title="JioTV+",ABP NEWS
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-398
+#EXTINF:-1 tvg-id="0-9-404" tvg-name="ABP Sanjha" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-404/list/abpsanjha117022f7c295dbb7413087a344fe1fcd8465.png" group-title="JioTV+",ABP Sanjha
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-404
+#EXTINF:-1 tvg-id="0-9-200" tvg-name="Asianet News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-200/list/asianetnewsmalayalam1170aacf9fc40ed243a18992507f5bc80568.png" group-title="JioTV+",Asianet News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-200
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/list/1170x658withlog2022520414.png" group-title="JioTV+",Big Magic
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-id="0-9-165" tvg-name="Boogle Bollywood" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-165/list/booglebollywood1170b04fcd6e812f421d9622ce085065c141.png" group-title="JioTV+",Boogle Bollywood
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-165
+#EXTINF:-1 tvg-id="0-9-ddbangla" tvg-name="DD Bangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbangla/list/1170x658withlog1242891543.png" group-title="JioTV+",DD Bangla
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddbangla
+#EXTINF:-1 tvg-id="0-9-ddbharati" tvg-name="DD Bharati" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbharati/list/1170x658withlog_1749264623.png" group-title="JioTV+",DD Bharati
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddbharati
+#EXTINF:-1 tvg-id="0-9-ddbihar" tvg-name="DD Bihar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddbihar/list/1170x658withlog_1865440648.png" group-title="JioTV+",DD Bihar
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddbihar
+#EXTINF:-1 tvg-id="0-9-ddchandana" tvg-name="DD Chandana" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddchandana/list/1170x658withlogo_222569298.png" group-title="JioTV+",DD Chandana
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddchandana
+#EXTINF:-1 tvg-id="0-9-ddgirnar" tvg-name="DD Girnar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddgirnar/list/1170x658withlog_1445842484.png" group-title="JioTV+",DD Girnar
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddgirnar
+#EXTINF:-1 tvg-id="0-9-ddindia" tvg-name="DD India" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddindia/list/ddindiab1170e005f1e37e0245c1a6ba011da7bbd98e.png" group-title="JioTV+",DD India
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddindia
+#EXTINF:-1 tvg-id="0-9-ddkisan" tvg-name="DD Kisan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddkisan/list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.png" group-title="JioTV+",DD Kisan
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddkisan
+#EXTINF:-1 tvg-id="0-9-ddmadhyapradesh" tvg-name="DD Madhya Pradesh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddmadhyapradesh/list/1170x658withlog_1218231157.png" group-title="JioTV+",DD Madhya Pradesh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddmadhyapradesh
+#EXTINF:-1 tvg-id="0-9-ddnews" tvg-name="DD News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddnews/list/ddnews11707ca01a836e1c4fbd952001e2fbabc101.png" group-title="JioTV+",DD News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddnews
+#EXTINF:-1 tvg-id="0-9-ddmalayalam" tvg-name="DD Malayalam" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddmalayalam/list/1170x658withlog_1300475155.png" group-title="JioTV+",DD Malayalam
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddmalayalam
+#EXTINF:-1 tvg-id="0-9-ddodia" tvg-name="DD Odia" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddodia/list/1170x658withlog_1372768736.png" group-title="JioTV+",DD Odia
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddodia
+#EXTINF:-1 tvg-id="0-9-ddpodhigai" tvg-name="DD Podhigai" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddpodhigai/list/1170x658withlog_1550486077.png" group-title="JioTV+",DD Podhigai
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="0-9-ddpunjabi" tvg-name="DD Punjabi" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddpunjabi/list/1170x658withlog_1007647800.png" group-title="JioTV+",DD Punjabi
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddpunjabi
+#EXTINF:-1 tvg-id="0-9-ddrajasthanjaipur" tvg-name="DD Rajasthan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddrajasthanjaipur/list/1170x658withlog_1491909175.png" group-title="JioTV+",DD Rajasthan
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddrajasthanjaipur
+#EXTINF:-1 tvg-id="0-9-ddsahyadri" tvg-name="DD Sahyadri" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddsahyadri/list/1170x658withlog1078376781.png" group-title="JioTV+",DD Sahyadri
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddsahyadri
+#EXTINF:-1 tvg-id="0-9-ddurdu" tvg-name="DD Urdu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddurdu/list/1170x658withlog_1440959247.png" group-title="JioTV+",DD Urdu
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddurdu
+#EXTINF:-1 tvg-id="0-9-dduttarpradesh" tvg-name="DD Uttar Pradesh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-dduttarpradesh/list/1170x658withlog_1445486903.png" group-title="JioTV+",DD Uttar Pradesh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-dduttarpradesh
+#EXTINF:-1 tvg-id="0-9-ddyadagiri" tvg-name="DD Yadagiri" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-ddyadagiri/list/ddyadagiri1170fb5c4623571b43a5b0fc6a728e6d6aa0.png" group-title="JioTV+",DD Yadagiri
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-ddyadagiri
+#EXTINF:-1 tvg-id="0-9-divyatv" tvg-name="Divya TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-divyatv/list/1170x658withlog2128007300.png" group-title="JioTV+",Divya TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-divyatv
+#EXTINF:-1 tvg-id="0-9-9z5163917" tvg-name="DRM Test channel 1 with Ad" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z5163917/list/english1170x658list1d79898f4a5747dfabffdec0af1bcd0f.png" group-title="JioTV+",DRM Test channel 1 with Ad
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z5163917
+#EXTINF:-1 tvg-id="0-9-9z5163919" tvg-name="DRM Test channel 2 â€“ No Ads" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z5163919/list/english1170x658list0669158a9e4c4e039327d9e678d0efed.png" group-title="JioTV+",DRM Test channel 2 â€“ No Ads
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z5163919
+#EXTINF:-1 tvg-id="0-9-255" tvg-name="Good News Today" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-255/list/gnt1170ca86c09088f94c238d6e86fb97524493.png" group-title="JioTV+",Good News Today
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-255
+#EXTINF:-1 tvg-id="0-9-183" tvg-name="Hare Krsna" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-183/list/1170x658withlog1124442022.png" group-title="JioTV+",Hare Krsna
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-183
+#EXTINF:-1 tvg-id="0-9-272" tvg-name="India News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-272/list/indianews1170a73c00b3362d4667b89b19bdb9cd9490.png" group-title="JioTV+",India News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-272
+#EXTINF:-1 tvg-id="0-9-279" tvg-name="India News Gujarat" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-279/list/indianewsgujarat1170b3b264873352480381d2965975c6f598.png" group-title="JioTV+",India News Gujarat
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-279
+#EXTINF:-1 tvg-id="0-9-278" tvg-name="India News Haryana" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-278/list/indianewsharyana1170ea506fd880c747b78aed73cefe7a1b01.png" group-title="JioTV+",India News Haryana
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-278
+#EXTINF:-1 tvg-id="0-9-277" tvg-name="India News MP" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-277/list/indianewsmp1170041847abd91849a98d11c326086de478.png" group-title="JioTV+",India News MP
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-277
+#EXTINF:-1 tvg-id="0-9-274" tvg-name="India News Punjabi Himachal" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-274/list/indianewspunjabhimachal1170a946b59a4384470ba3dddb17d53b71f9.png" group-title="JioTV+",India News Punjabi Himachal
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-274
+#EXTINF:-1 tvg-id="0-9-276" tvg-name="India News Rajasthan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-276/list/indianewsrajasthan117073b15b610bb846d58b1298a0f7257f7e.png" group-title="JioTV+",India News Rajasthan
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-276
+#EXTINF:-1 tvg-id="0-9-275" tvg-name="India News UP" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-275/list/indianewsupuk117068f76579e5ea4ad88e07398874431686.png" group-title="JioTV+",India News UP
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-275
+#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-name="India Today" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-indiatoday/list/indiatodayrajeevsardesdai1170e084f08174454d40a2f47ab45cbaf09f.png" group-title="JioTV+",India Today
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-indiatoday
+#EXTINF:-1 tvg-id="0-9-285" tvg-name="Ishwar  TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-285/list/1170x658withlog_1126976137.png" group-title="JioTV+",Ishwar  TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-285
+#EXTINF:-1 tvg-id="0-9-430" tvg-name="Kairali News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-430/list/sarath_1170.png" group-title="JioTV+",Kairali News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-430
+#EXTINF:-1 tvg-id="0-9-makkaltv" tvg-name="Makkal TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-makkaltv/list/1170x658withlogo579936187.png" group-title="JioTV+",Makkal TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-makkaltv
+#EXTINF:-1 tvg-id="0-9-280" tvg-name="NE News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-280/list/nenews1170989da17aa8794439a878b03df044ebd2.png" group-title="JioTV+",NE News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-280
+#EXTINF:-1 tvg-id="0-9-170" tvg-name="News Nation" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-170/list/newsnation117050989b1efede42d8ae657502f345a0ca.png" group-title="JioTV+",News Nation
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-170
+#EXTINF:-1 tvg-id="0-9-172" tvg-name="News State Madhya Pradesh Chhattisgarh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-172/list/newsstatempch11703204b4fd1f2944edaf1bc0eb7052950a.png" group-title="JioTV+",News State Madhya Pradesh Chhattisgarh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-172
+#EXTINF:-1 tvg-id="0-9-171" tvg-name="News State Uttar Pradesh Uttrakhand" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-171/list/newsstateuttarpradeshuttrakhand1170f69672e841004a059cd2ea32fecee597.png" group-title="JioTV+",News State Uttar Pradesh Uttrakhand
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-171
+#EXTINF:-1 tvg-id="0-9-273" tvg-name="News X" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-273/list/newsx1170bae83edacc0e4aa2bef80887bb5af9ec.png" group-title="JioTV+",News X
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-273
+#EXTINF:-1 tvg-id="0-9-206" tvg-name="News24" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-206/list/e24newslogob1170b1ea8df954d74f9ab303c85d16ba2775.png" group-title="JioTV+",News24
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-206
+#EXTINF:-1 tvg-id="0-9-423" tvg-name="Newsmax" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-423/list/newsmax1170bc1feaeda53c460a9b679532d34d79e3.png" group-title="JioTV+",Newsmax
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-423
+#EXTINF:-1 tvg-id="0-9-284" tvg-name="Sadhna TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-284/list/1170x658withlogo_844800250.png" group-title="JioTV+",Sadhna TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-284
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_1144658965/list/1170x658withlog_1152304152.png" group-title="JioTV+",Sanskar TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_1144658965
+#EXTINF:-1 tvg-id="0-9-channel_1565694979" tvg-name="Satsang TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_1565694979/list/1170x658withlogo_66703857.png" group-title="JioTV+",Satsang TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_1565694979
+#EXTINF:-1 tvg-id="0-9-201" tvg-name="Suvarna News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-201/list/asianetsuvarnanews11709f4333ede8c94593ba62fa9c4a066511.png" group-title="JioTV+",Suvarna News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-201
+#EXTINF:-1 tvg-id="0-9-424" tvg-name="TICKER NEWS" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-424/list/tickernews1170c63cccb6d1674b368a3e110d87c8149a.png" group-title="JioTV+",TICKER NEWS
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-424
+#EXTINF:-1 tvg-id="0-9-9z583386" tvg-name="Times Now Navbharat" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583386/list/timesnownavbharat11704a68afbc099c41369cbdf3aef9dabb94.png" group-title="JioTV+",Times Now Navbharat
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z583386
+#EXTINF:-1 tvg-id="0-9-378" tvg-name="TV9 Bangla" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-378/list/tv9bangla11701498fb25d3fd4b4db18c5d4e05e83cc9ce.png" group-title="JioTV+",TV9 Bangla
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-378
+#EXTINF:-1 tvg-id="0-9-251" tvg-name="TV9 Bharatvarsh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-251/list/tv9bharatvarshb1170cfcedff1425c46df828ed7b37cdbaf0d.png" group-title="JioTV+",TV9 Bharatvarsh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-251
+#EXTINF:-1 tvg-id="0-9-260" tvg-name="TV9 Gujarati" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-260/list/tv9gujarati1170e4e9126e1eb746e6853966345db1d375.png" group-title="JioTV+",TV9 Gujarati
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-260
+#EXTINF:-1 tvg-id="0-9-259" tvg-name="TV9 Kannada" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-259/list/tv9kannada1170a4eae60d238048e5ba07bc51b44305d3.png" group-title="JioTV+",TV9 Kannada
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-259
+#EXTINF:-1 tvg-id="0-9-257" tvg-name="TV9 Marathi" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-257/list/tv9marathi11707047d08082244d888383f016618dd8d1.png" group-title="JioTV+",TV9 Marathi
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-257
+#EXTINF:-1 tvg-id="0-9-258" tvg-name="TV9 Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-258/list/tv9telugu1170fde098a9ffec4332ab3114d3246e31d9.png" group-title="JioTV+",TV9 Telugu
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-258
+#EXTINF:-1 tvg-id="0-9-wion" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-wion/list/wion1170f27d4cfea0034f28b51f3bcc4c93ef3c.png" group-title="JioTV+",WION
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-wion
+#EXTINF:-1 tvg-id="0-9-426" tvg-name="xp342sjh_ITL20" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-426/list/" group-title="JioTV+",xp342sjh_ITL20
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-426
+#EXTINF:-1 tvg-id="0-9-zee24kalak" tvg-name="Zee 24 Kalak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zee24kalak/list/zee24kalak117084349197e3404489902c872aa2d44800.png" group-title="JioTV+",Zee 24 Kalak
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zee24kalak
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-name="Zee 24 Taas" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zee24taas/list/zee24taas117037416fdbe6564d2cb49d84c80c2b21d1.png" group-title="JioTV+",Zee 24 Taas
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zee24taas
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeaction/list/1170x658withlog_1953200347.png" group-title="JioTV+",Zee Action
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeaction
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeanmol/list/1170x658withlog1844143347.png" group-title="JioTV+",Zee Anmol
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeanmol
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeanmolcinema/list/1170x658withlog1721007595.png" group-title="JioTV+",Zee Anmol Cinema
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebanglacinema/list/1170x658withlog1238879598.png" group-title="JioTV+",Zee Bangla Cinema
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebanglacinema
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebangla/list/1170x658310781121.png" group-title="JioTV+",Zee Bangla HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebangla
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/list/zeebiharjharkhandb11701c02b03e336d4ef792d4b32a343223d6.png" group-title="JioTV+",Zee Bihar Jharkhand
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebiharjharkhand
+#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-216/list/1170x658withlogo20909261.png" group-title="JioTV+",Zee Biskope
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-216
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeclassic/list/1170x658e6b59efbc9c5471f9392f477f91f0c11.png" group-title="JioTV+",Zee Bollywood
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeclassic
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeebusiness/list/zeebusiness1170af2e0e4454a1440f87d39a255727708c.png" group-title="JioTV+",Zee Business
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeebusiness
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee CafÃ© HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecafehd/list/1170x658withlogo325698699.png" group-title="JioTV+",Zee CafÃ© HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecafehd
+#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-394/list/1170x658717187404.png" group-title="JioTV+",Zee Chitramandir
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-394
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinema/list/1170x658withlogo807278654.png" group-title="JioTV+",Zee Cinema
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinema
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemahd/list/1170x658withlogo167952257.png" group-title="JioTV+",Zee Cinema HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeecinemalu/list/1170x6581642453232.png" group-title="JioTV+",Zee Cinemalu HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeecinemalu
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-176/list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png" group-title="JioTV+",Zee Classic
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-176
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeekalinganews/list/zeedelhiharyana1170x658e8b7b3111f204117a0bcf3f8a1327e7b.png" group-title="JioTV+",Zee Delhi NCR Haryana
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeekalinganews
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Ganga" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-bigganga/list/1170x6581735687172.png" group-title="JioTV+",Zee Ganga
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-bigganga
+#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-name="Zee Hindustan" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeehindustan/list/zeehindustan1170a766bbf240b74a54ba76c9c4788fed8b.png" group-title="JioTV+",Zee Hindustan
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeehindustan
+#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-name="Zee Kannada HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeekannada/list/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png" group-title="JioTV+",Zee Kannada HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeekannada
+#EXTINF:-1 tvg-id="0-9-129" tvg-name="Zee Keralam HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-129/list/1170x658withlogo268830785.png" group-title="JioTV+",Zee Keralam HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-129
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeemadhyapradeshchat/list/zeemadhyapradeshchhattisgarh11707d6f48d5a1de46c99f4e31c3faa08a26.png" group-title="JioTV+",Zee Madhya Pradesh Chhattisgarh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeemadhyapradeshchat
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeemarathi/list/1170x658withlogo551054149.png" group-title="JioTV+",Zee Marathi HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeemarathi
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeenews/list/zeenews1170ef9d2835a60641f1be62323e9d345e60.png" group-title="JioTV+",Zee News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeenews
+#EXTINF:-1 tvg-id="0-9-9z583537" tvg-name="ZEE News Kannada" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583537/list/zeekannada1170a83c617d657f446c86c6ea66e411b9ed.png" group-title="JioTV+",ZEE News Kannada
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z583537
+#EXTINF:-1 tvg-id="0-9-9z583539" tvg-name="ZEE News Malayalam" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583539/list/1170x658f0313dbfc3ef4c0c9c4619454829b2d3.png" group-title="JioTV+",ZEE News Malayalam
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z583539
+#EXTINF:-1 tvg-id="0-9-9z583533" tvg-name="ZEE News Tamil" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583533/list/zeetamil1170f502071a9e014c3bb30f231863c8d4d0.png" group-title="JioTV+",ZEE News Tamil
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z583533
+#EXTINF:-1 tvg-id="0-9-9z583538" tvg-name="Zee News Telugu" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z583538/list/zeetelugu1170f89d1ea52b6446d48dd7619f9e5441e2.png" group-title="JioTV+",Zee News Telugu
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z583538
+#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-channel_265145625/list/zeeupukb11705190c13d14284a9ab47288edb06b7cec.png" group-title="JioTV+",Zee News Uttar Pradesh Uttrakhand
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-channel_265145625
+#EXTINF:-1 tvg-id="0-9-9z5148695" tvg-name="ZEE Odisha News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-9z5148695/list/1170x65807bdca6c4569465585c116586cbe760c.png" group-title="JioTV+",ZEE Odisha News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-9z5148695
+#EXTINF:-1 tvg-id="0-9-241" tvg-name="Zee Picchar" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-241/list/1170x658withlog_1692640342.png" group-title="JioTV+",Zee Picchar
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-241
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" tvg-name="Zee Punjab Haryana Himachal Pradesh" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/list/zphh1440395bb52d6063497fba798546146c98c4.png" group-title="JioTV+",Zee Punjab Haryana Himachal Pradesh
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeepunjabharyanahima
+#EXTINF:-1 tvg-id="0-9-215" tvg-name="Zee Punjabi" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-215/list/1170x658withlog1031170304.png" group-title="JioTV+",Zee Punjabi
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-215
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-name="Zee Rajasthan News" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeerajasthannews/list/zeerajasthanb117022518c73ed8343fdb5b0be52e8f5cb0e.png" group-title="JioTV+",Zee Rajasthan News
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeerajasthannews
+#EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-name="Zee Salaam" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeesalaam/list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.png" group-title="JioTV+",Zee Salaam
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeesalaam
+#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-sarthaktv/list/1170x658withlog1150431941.png" group-title="JioTV+",Zee Sarthak
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-sarthaktv
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetalkies/list/1170x658483062857.png" group-title="JioTV+",Zee Talkies HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetalkies
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetamil/list/1170x6580c64b034b1f04766a39172f72eb97c77.png" group-title="JioTV+",Zee Tamil HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetamil
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetelugu/list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png" group-title="JioTV+",Zee Telugu HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetelugu
+#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-224/list/1170x658withlogo_334138193.png" group-title="JioTV+",Zee Thirai
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-224
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetv/list/1170x658withlogo_200095097.png" group-title="JioTV+",Zee TV
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetv
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeetvhd/list/1170x658withlog1554775145.png" group-title="JioTV+",Zee TV HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeetvhd
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zeeyuva/list/1170x658withlogo_361849131.png" group-title="JioTV+",Zee Yuva
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zeeyuva
+#EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-348/list/1170x658withlog2096037619.png" group-title="JioTV+",Zee Zest HD
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-348
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-logo="https://akamaividz.zee5.com/image/upload/resources/0-9-zing/list/1170x658withlogo895666865.png" group-title="JioTV+",Zing
+http://iamsomx.herokuapp.com/zee5.php?id=0-9-zing
+#EXTINF:-1 tvg-id="143" tvg-name="Sports13 HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports13_HD.png" group-title="JioTV+",Sports13 HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1942
+#EXTINF:-1 tvg-id="143" tvg-name="Sports14 HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports14_HD.png" group-title="JioTV+",Sports14 HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1943
+#EXTINF:-1 tvg-id="143" tvg-name="Sports18 1 HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="JioTV+",Sports18 1 HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1986
+#EXTINF:-1 tvg-id="143" tvg-name="MTV HD Plus ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JioTV+",MTV HD Plus ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1300
+#EXTINF:-1 tvg-id="143" tvg-name="MTV Beats HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+",MTV Beats HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1304
+#EXTINF:-1 tvg-id="143" tvg-name="Sonic Nickelodeon ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png" group-title="JioTV+",Sonic Nickelodeon ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1318
+#EXTINF:-1 tvg-id="143" tvg-name="Nick Junior ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="JioTV+",Nick Junior ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1305
+#EXTINF:-1 tvg-id="143" tvg-name="Nick HD Plus ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png" group-title="JioTV+",Nick HD Plus ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1307
+#EXTINF:-1 tvg-id="143" tvg-name="Colors HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JioTV+",Colors HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1301
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Bangla HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png" group-title="JioTV+",Colors Bangla HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1314
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Tamil HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JioTV+",Colors Tamil HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1302
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Gujarati ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="JioTV+",Colors Gujarati ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1312
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Kannada HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="JioTV+",Colors Kannada HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1308
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Oriya ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="JioTV+",Colors Oriya ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1306
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Marathi HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JioTV+",Colors Marathi HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1310
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Rishtey ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="JioTV+",Colors Rishtey ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1298
+#EXTINF:-1 tvg-id="143" tvg-name="Rishtey Cineplex ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="JioTV+",Rishtey Cineplex ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1309
+#EXTINF:-1 tvg-id="143" tvg-name="Colors Super ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="JioTV+",Colors Super ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1311
+#EXTINF:-1 tvg-id="143" tvg-name="Comedy Central HD ( Offline )" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="JioTV+",Comedy Central HD ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1303
+#EXTINF:-1 tvg-id="143" tvg-name="Clubbing TV ( Offline )" tvg-logo="http://v3img.voot.com/v3Storage/assets/clubbing-tv-live-channels-16x9-1642675776637.jpg" group-title="JioTV+",Clubbing TV ( Offline )
+https://iamsomx.herokuapp.com/voot.php?id=1624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV BEATS" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",MTV BEATS
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR GOLD
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD SERVER 2" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR GOLD HD SERVER 2
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHAMOVIES" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR JALSHAMOVIES
+http://jupiter.bdcabletv.com/jalshamuvie-enc/video.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR MOVIES HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD SERVER 2" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR PLUS HD SERVER 2
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR WORLD HD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",STAR WORLD HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="Disney+Hotstar (DenverIPTV)",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Comedy " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",Gemini Comedy 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6711/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI HD " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",GEMINI HD 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6709/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GEMINI MOVIES " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",GEMINI MOVIES 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6710/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",KTV HD 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6693/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAJ TV " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",RAJ TV 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6699/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAA MAA GOLD " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",STAA MAA GOLD 
+http://50.7.237.4:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MAA" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",STAR MAA
+http://50.7.237.4:8080/STARMAAHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",STAR VIJAY 
+http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Music" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",Sun Music
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6694/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SUN TV HD 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6692/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SURYA TV 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6655/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udya TV " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",Udya TV 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6648/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL " tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",ZEE TAMIL 
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6704/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",KTV HD
+http://31.172.87.20:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",STAR VIJAY
+http://31.172.87.20:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SUN TV
+http://31.172.87.20:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN MUSIC HD" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SUN MUSIC HD
+http://31.172.87.52:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUN TV HD" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SUN TV HD
+http://31.172.87.52:2200/R-EX/TAMIL_SUN_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MOVIES" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SURYA MOVIES
+http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA MUSIC" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SURYA MUSIC
+http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV" tvg-logo="" group-title="Tamil/Telugu (DenverIPTV)",SURYA TV
+http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
