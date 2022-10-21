@@ -4,9 +4,9 @@
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
 #EXTM3U
 #EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml.gz"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cineplex" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Colors Cineplex
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& PICTURE HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Colors Cineplex Bollywood
 https://akiliv.herokuapp.com/app/master.php?id=48141&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="And TV HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",And TV HD 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&TV HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",And TV HD 
 https://akiliv.herokuapp.com/app/master.php?id=48130&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",AAJ TAK HD 
 https://akiliv.herokuapp.com/app/master.php?id=48139&e=.m3u8
@@ -20,7 +20,7 @@ https://akiliv.herokuapp.com/app/master.php?id=48176&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=48141&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",COLORS HD 
 https://akiliv.herokuapp.com/app/master.php?id=51258&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS RISTHEY" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",COLORS RISTHEY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS RISTHEY" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Big Magic
 https://akiliv.herokuapp.com/app/master.php?id=51223&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EURO SPORTS HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",EURO SPORTS HD 
 https://akiliv.herokuapp.com/app/master.php?id=51222&e=.m3u8
@@ -32,11 +32,13 @@ https://akiliv.herokuapp.com/app/master.php?id=48185&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=51277&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",NAT GEO WILD HD 
 https://akiliv.herokuapp.com/app/master.php?id=48127&e=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 18 INDIA" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",NEWS 18 INDIA
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=560800.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SONY MAX HD 
 https://akiliv.herokuapp.com/app/master.php?id=48151&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SONY SAB HD 
 https://akiliv.herokuapp.com/app/master.php?id=48152&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR BHARAT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHART HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Star Bharat HD
 https://akiliv.herokuapp.com/app/master.php?id=48104&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR GOLD SELECT HD 
 https://akiliv.herokuapp.com/app/master.php?id=48108&e=.m3u8
@@ -44,7 +46,7 @@ https://akiliv.herokuapp.com/app/master.php?id=48108&e=.m3u8
 https://akiliv.herokuapp.com/app/master.php?id=48109&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR SPORTS 2 HD 
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI 1 HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR SPORTS HINDI 1 HD 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI 1 HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Star Sports 1 Hindi HD 
 https://akiliv.herokuapp.com/app/master.php?id=48120&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV MOVIES " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",UTV MOVIES 
 https://akiliv.herokuapp.com/app/master.php?id=48171&e=.m3u8
@@ -78,13 +80,9 @@ http://50.7.237.4:8080/DISCOVERYTAMIL/index.m3u8
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6583/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",HUNGAMA 
 http://31.172.87.20:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBN LOKMAT" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",IBN LOKMAT
-http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6661/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ISHVAR " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",ISHVAR 
-http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6618/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV BEATS HD" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",MTV BEATS HD
 http://31.172.87.20:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV. INDIA" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",MTV
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6582/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",MUSIC INDIA
 http://50.7.237.4:8080/MUSICINDIA/tracks-v1a1/index.m3u8
@@ -98,7 +96,7 @@ http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6629/index.m3u8
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6619/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATSANG " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SATSANG 
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6624/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SLY SPORTS CRICKET" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SLY SPORTS CRICKET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SLY SPORTS CRICKET" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Sky Sports Cricket
 http://1tv1.net:8080/live/01007888688/28464975/55387.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SONY MAX 
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6574/index.m3u8
@@ -106,13 +104,13 @@ http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6574/index.m3u8
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6626/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SAB " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SONY SAB 
 http://50.7.237.4:8080/SONYSABHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony YAY" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SONY YAY 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY yeh " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",SONY yeh 
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6627/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR BHARAT HD 
 http://31.172.87.20:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR GOLD HD 
 http://50.7.237.4:8080/STARGOLDHD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT HD" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR GOLD SELECT HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD SELECT " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR GOLD SELECT HD
 http://31.172.87.20:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR PLUS HD 
 http://31.172.87.20:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
@@ -124,11 +122,11 @@ http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqq
 http://watchindia.net:8880/live/vvv/vvv/808.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 2 HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR SPORTS 2 HD 
 http://31.172.87.20:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR SPORTS HINDI 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Star Sports 1 Hindi
 http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS KANADA" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR SPORTS KANADA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS KANADA" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR SPORTS TAMIL
 http://103.147.87.13:8000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR VIJAY 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY SD" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR VIJAY 
 http://31.172.87.20:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR VIJAY HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",STAR VIJAY HD 
 http://50.7.237.4:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
@@ -154,9 +152,10 @@ http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6658/index.m3u8
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6660/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TAMIL HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",ZEE TAMIL HD 
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6704/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TELGU " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",ZEE TELGU 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TELGU " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",ZEE TELUGU
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6646/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE TV HD " tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",ZEE TV HD 
+http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6576/index.m3u8 
 http://pruhfysr.ottclub.xyz/iptv/78E6BB6LPPGMFA/6576/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="" group-title="ZEE5 Pack BY DEV😎",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -432,31 +431,27 @@ https://akiliv.herokuapp.com/app/master.php?id=51242&e=.m3u8
 http://221.120.204.3:80/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 hindi HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",Star Sports 1 Hindi HD
 https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky sports" tvg-logo="" group-title="CRICKET SEASON BY DENVER",sky sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky sports" tvg-logo="" group-title="CRICKET SEASON BY DENVER",Star Sports 2 HD
 https://3uog.short.gy/Live_events.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stat Plus HD" tvg-logo="" group-title="DISH TV (2.0) 🅱️Y DENVER",Star plus
 https://Join_us_on_Telegram_bjtechknowledge_24@3uog.short.gy/BEIN_SPORTS_ENGLISH_BJTECHKNOWLEDGE_2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",sky sports HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Astro Cricket" tvg-logo="" group-title="CRICKET SEASON BY DENVER",ASTRO CRICKET
 https://JOIN_US_ON_TELEGRAM_BJTECHKNOWLEDGE_24@3uog.short.gy/BJTECHKNOWLEDGE_2_STAR_SPORTS_1HD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",BEIN SPORTS 3 HD
-http://14.192.129.138:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET" tvg-logo="" group-title="CRICKET SEASON BY DENVER",SUPER SPORTS CRICKET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",STAR SPORTS 1 HINDI HD
 https://akiliv.herokuapp.com/app/master.php?id=51218&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET HD " tvg-logo="" group-title="CRICKET SEASON BY DENVER",SKY SPORTS CRICKET HD 
 http://1tv1.net:8080/live/01007888688/28464975/55387.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET" tvg-logo="" group-title="CRICKET SEASON BY DENVER",SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SKY SPORTS CRICKET" tvg-logo="" group-title="CRICKET SEASON BY DENVER",Star Sports 1 hindi HD
 https://akiliv.herokuapp.com/app/master.php?id=14000&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",SUPER SPORTS CRICKET HD
-https://ddy1.vhls.ru.com/ddy1/premium368/tracks-v1a1/mono.m3u8?|User-agent=Sportzfy&Referer=https://streamservicehd.click/&cookie=Sportzfy
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",Star Sports 1 HD
 http://31.172.87.20:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS 501 HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",FOX SPORTS 501 HD
 lhttps://ddy1.vhls.ru.com/ddy1/premium369/tracks-v1a1/mono.m3u8?|User-agent=Sportzfy&Referer=https://streamservicehd.click/&cookie=Sportzfy
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOTSTAR" tvg-logo="" group-title="CRICKET SEASON BY DENVER",HOTSTAR Live Denver
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOTSTAR" tvg-logo="https://i.ibb.co/31TfMdk/Disney-Hotstar.jpg" group-title="CRICKET SEASON BY DENVER",HOTSTAR Live Denver
 http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD " tvg-logo="" group-title="CRICKET SEASON BY DENVER",WILLOW CRICKET HD 
 https://ddy1.vhls.ru.com/ddy1/premium346/tracks-v1a1/mono.m3u8?|User-agent=Sportzfy&Referer=https://streamservicehd.click/&cookie=Sportzfy
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",Star Select 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Select 2 HD" tvg-logo="" group-title="CRICKET SEASON BY DENVER",Star Sports 2 HD
 https://akiliv.herokuapp.com/app/master.php?id=18181&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="CRICKET SEASON BY DENVER",STAR SPORTS HD 1 HINDI
 http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
@@ -654,11 +649,11 @@ http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MOVIES-in/index.m3u8?token=RED_Hqq
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SURYA TV" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",SURYA TV
 http://31.172.87.52:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",DISNEY CHANNEL
 http://31.172.87.53:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV TELGU" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",ETV TELGU
 http://89.187.179.108:8080/ETVHD/LOCAL/TEL/index.m3u8?token=test
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUNGAMA Channel" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",HUNGAMA Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hungama" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",HUNGAMA Channel
 http://31.172.87.55:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR MAA" tvg-logo="" group-title="TAMIL/TELUGU/MARATHI SPECIAL",STAR MAA
 http://89.187.179.108:8080/MAATVHD/LOCAL/TEL/index.m3u8?token=test
@@ -774,3 +769,157 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 group-title="Zzzz😴 This Playlist Made By @DenverIPTV" tvg-logo="https://i.ibb.co/8BSzKQj/images.jpg",Denver hahaha
 https://www.googleapis.com/drive/v3/files/1-scLq-BNomOJIm5L_B37RytqNQo9-Fka?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",And PRIVE HD
+http://103.147.87.13:8002/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",And flix HD
+http://103.147.87.13:8002/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",And Pictures HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",And TV HD
+http://sonyiptv.net:8080/live/011/011/6069.ts
+http://103.147.87.13:8002/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Animal Planet HD
+http://103.147.87.13:8002/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Asianet HD
+http://103.147.87.13:8002/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Colors HD
+http://103.147.87.13:8002/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",EuroSports HD
+http://103.147.87.13:8002/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",HISTORY TV1
+http://103.147.87.13:8002/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SONY PIX HD
+http://103.147.87.13:8002/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SET HD
+http://103.147.87.13:8002/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SONY PAL
+http://103.147.87.13:8002/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Bharat HD
+http://103.147.87.13:8002/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Sony Ten 2 HD
+http://103.147.87.13:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star GOLD HD
+http://103.147.87.13:8002/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Gold Select HD
+http://103.147.87.13:8002/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Plus HD
+http://103.147.87.13:8002/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Sports Select 1 HD
+http://103.147.87.13:8002/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Sports Select 2 HD
+http://103.147.87.13:8002/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Utsav
+http://103.147.87.13:8002/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",VIJAY HD
+http://103.147.87.13:8002/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE ANMOL
+http://103.147.87.13:8002/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE BANGLA HD
+http://103.147.87.13:8002/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE CINEMA HD
+http://103.147.87.13:8002/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE MARATHI HD
+http://103.147.87.13:8002/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE TAMIL HD
+http://103.147.87.13:8002/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE TV HD
+http://103.147.87.13:8002/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Colors Infinity HD
+http://103.147.87.13:8002/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Colors Rishtey
+http://103.147.87.13:8002/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",nick HD+
+http://103.147.87.13:8002/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Cartoon Network
+http://103.147.87.13:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",CNBC Prime HD
+http://103.147.87.13:8000/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",DD SPORTS
+http://103.147.87.13:8000/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",DISCOVERY KIDS
+http://103.147.87.13:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Discovery HD
+http://103.147.87.13:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Disney
+http://sonyiptv.net:8080/live/011/011/8948.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Disney Junior
+http://103.147.87.13:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Dunya News
+http://103.147.87.13:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",EURO SPORT
+http://103.147.87.13:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",GEMINI TV HD
+http://103.147.87.13:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Jalsha MOVIE
+http://103.147.87.13:8000/play/a088/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Jalsha Movies HD
+http://103.147.87.13:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",KTV HD
+http://103.147.87.13:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Sony Max HD
+http://103.147.87.13:8000/play/a06q/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",MN+ HD
+http://103.147.87.13:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Mazhavil Marathi HD
+http://103.147.87.13:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",NAT Geo Wild HD
+http://103.147.87.13:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",NEWS ONE
+http://103.147.87.13:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",National Geographic
+http://103.147.87.13:8000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Nick Junior
+http://103.147.87.13:8000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Pogo
+http://103.147.87.13:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SONY SIX HD
+http://103.147.87.13:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SONIC HINDI
+http://103.147.87.13:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",STAR MOVIES HD
+http://103.147.87.13:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",STAR WORLD HD
+http://103.147.87.13:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",STAR WORLD PREMIER HD
+http://103.147.87.13:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SUN MUS HD
+http://103.147.87.13:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",SUN TV HD
+http://103.147.87.13:8000/play/a07y/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Sony Ten 1 HD
+http://103.147.87.13:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Sony Ten 3 HD
+http://103.147.87.13:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Sony Ten 4
+http://103.147.87.13:8000/play/a07v/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Movies Select HD
+http://103.147.87.13:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Pravah HD
+http://103.147.87.13:8000/play/a082/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Sports 1 Hindi HD
+http://103.147.87.13:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Sports 1 HD
+http://103.147.87.13:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Sports 2 HD
+http://103.147.87.13:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Sports 1 tamil
+http://103.147.87.13:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Star Suvarna HD
+http://103.147.87.13:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",TLC HD
+http://103.147.87.13:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",TV ONE
+http://103.147.87.13:8000/play/a061/index.m3u8
+http://103.147.87.13:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE Cafe HD
+http://103.147.87.13:8000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",ZEE Kannada HD
+http://103.147.87.13:8000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Colors Bangla HD
+http://103.147.87.13:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Colors Marathi HD
+http://103.147.87.13:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",hungama
+http://sonyiptv.net:8080/live/011/011/8955.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="" group-title="TATA PLAY (3.0) 🅱️Y DENVER",Nick
+http://103.147.87.13:8000/play/a00q/index.m3u8
