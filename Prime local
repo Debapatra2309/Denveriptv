@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,Prime Cinema HD
+https://amigofx.com:1936/PrimeCinema/PrimeCinema/playlist.m3u8
+#EXTINF:-1 ,Prime TV
+https://amigofx.com:1936/primetv/primetv/playlist.m3u8
+#EXTINF:-1 ,Prime Classic HD
+https://amigofx.com:1936/PrimeClassic/PrimeClassic/playlist.m3u8
+#EXTINF:-1 ,Prime Local HD
+https://amigofx.com:1936/primelocal/primelocal/playlist.m3u8
