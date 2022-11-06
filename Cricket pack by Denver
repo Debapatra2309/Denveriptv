@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,Star Sports 1
+https://mx.techyshikari.in/starsp1hin/540p.m3u8
+#EXTINF:-1,Star sports TAMIL 
+https://akiliv.herokuapp.com/app/master.php?id=48005&e=.m3u8
+#EXTINF:-1,#EXTINF:1,Star sports 1 HINDI 
+http://iptv.ndasat.xyz:88/live/Ousama-ar/6bsW266AcW/1877.m3u8
+#EXTINF:-1,STAR SPORTS HINDI
+https://akiliv.herokuapp.com/app/master.php?id=51218&e=.m3u8
+#EXTINF:-1,WILLOW CRICKET
+https://akiliv.herokuapp.com/app/master.php?id=51219&e=.m3u8
+#EXTINF:-1,Star sports HINDI 
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0767f22d5a29bf79231e5c747403e8f0ed8246b4f29ce87/index.m3u8
+#EXTINF:-1,Star sports 1 English
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ebb87d9a00586fbd1aed1dd05/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WILLOW Cricket 
+https://playchannel.ml?https://11live02.akamaized.net/FTX2_WILLOW/playlist.m3u8
+#EXTINF:-1,willow cricket (720P)
+https://playchannel.ml?https://11live02.akamaized.net:443/FTX2_WILLOW/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A Sports HD
+http://103.151.43.102:8801/play/a04z/index.m3u8
+#EXTINF:-1,Ten Sports
+http://103.157.249.125:201/play/a041/index.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+http://213.226.69.130/iptv/YYY6YBWYUNA6UM/7343/index.m3u8
+#EXTINF:-1,STAR SPORTS HINDI 
+http://iptvtree.net:8080/live/F17744/f01e18e2/3630.m3u8
+#EXTINF:-1,Sky sports cricket
+http://iptvtree.net:8080/live/F17744/f01e18e2/269.m3u8
+#EXTINF:-1,ASTRO CRICKET
+http://iptvtree.net:8080/live/F17744/f01e18e2/157565.m3u8
+#EXTINF:-1,super sports cricket
+http://iptvtree.net:8080/live/F17744/f01e18e2/11637.m3u8
+#EXTINF:-1,FOX 501
+http://iptvtree.net:8080/live/F17744/f01e18e2/279034.m3u8
+#EXTINF:-1,PTV sports 
+http://iptvtree.net:8080/live/F17744/f01e18e2/16633.m3u8
+#EXTINF:-1,A SPORTS
+http://iptvtree.net:8080/live/F17744/f01e18e2/295025.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://103.151.43.102:8801/play/a007/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://103.151.43.102:8801/play/a008/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://103.151.43.102:8801/play/a00r/index.m3u8
+#EXTINF:-1,Star Sports Hin 1 HD
+http://103.151.43.102:8801/play/a00b/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://103.151.43.102:8801/play/a03b/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://103.151.43.102:8801/play/a03c/index.m3u8
+#EXTINF:-1,Sky Sports Main event
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:-1 ,@DenverIPTV
+https://www.googleapis.com/drive/v3/files/109XW8xAEg2P8zKnyco0UIc5_oVG8hzSO?alt=media&key=AIzaSyAOqXnu-T5iIiYBmfymZDZMaNVk4MEyPwY
