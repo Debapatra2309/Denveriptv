@@ -1,0 +1,162 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",And Flix HD
+http://223.29.231.66:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",And Pictures HD
+http://223.29.231.66:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",And Prive HD
+http://223.29.231.66:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",And TV HD 
+http://223.29.231.66:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",1SPORTS
+http://223.29.231.66:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Animal Planet HD
+http://223.29.231.66:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",BBC WORLD
+http://223.29.231.66:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",BIG MAGIC
+http://223.29.231.66:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",CNN INTL
+http://223.29.231.66:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Cartoon Network
+http://223.29.231.66:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Colors HD
+http://223.29.231.66:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Comedy Central
+http://223.29.231.66:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Discovery HD
+http://223.29.231.66:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Discovery Kids
+http://223.29.231.66:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Discovery Scienc
+http://223.29.231.66:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Discovery Turbo
+http://223.29.231.66:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Disney Junior
+http://223.29.231.66:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Disney
+http://223.29.231.66:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",EPIC
+http://223.29.231.66:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",EUROSPORT HD
+http://223.29.231.66:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",FOX Life HD
+http://223.29.231.66:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",HISTORY TV18 HD
+http://223.29.231.66:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",MH ONE
+http://223.29.231.66:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",MN+ HD
+http://223.29.231.66:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",MOVIES NOW
+http://223.29.231.66:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",MTV
+http://223.29.231.66:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",MTV Beats
+http://223.29.231.66:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁", National Geographic HD
+http://223.29.231.66:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",NatGeo Wild HD
+http://223.29.231.66:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Nick Junior
+http://223.29.231.66:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",PTC PUNJABI
+http://223.29.231.66:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",PTC chakde
+http://223.29.231.66:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Pogo 
+http://223.29.231.66:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Romedy NOW
+http://223.29.231.66:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SET HD 
+http://223.29.231.66:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Sonic Hindi
+http://223.29.231.66:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY MAX 2 
+http://223.29.231.66:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY MAX HD
+http://223.29.231.66:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY PAL
+http://223.29.231.66:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY PIX HD
+http://223.29.231.66:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SAB HD
+http://223.29.231.66:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Bharat HD
+http://223.29.231.66:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",STAR MOVIES HD
+http://223.29.231.66:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Shemaroo TV
+http://223.29.231.66:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY TEN 1 HD
+http://223.29.231.66:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY TEN 2 HD
+http://223.29.231.66:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY TEN 3 HD
+http://223.29.231.66:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY TEN 4
+http://223.29.231.66:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",SONY BBC EARTH HD
+http://223.29.231.66:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star GOLD HD 
+http://223.29.231.66:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Gold 2
+http://223.29.231.66:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Plus HD 
+http://223.29.231.66:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Sports 1 HD
+http://223.29.231.66:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Gold Select HD
+http://223.29.231.66:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Movie Select HD
+http://223.29.231.66:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Sports 1 Hindi HD
+http://223.29.231.66:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Sport Select 1 HD
+http://223.29.231.66:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Sport Select 2 HD
+http://223.29.231.66:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Sports 1 HD
+http://223.29.231.66:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star Sports 2 HD
+http://223.29.231.66:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Star World Premiere HD
+http://223.29.231.66:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Super Hungama
+http://223.29.231.66:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",TLC HD
+http://223.29.231.66:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",UTV ACTION
+http://223.29.231.66:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",UTV MOVIES
+http://223.29.231.66:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Vh1
+http://223.29.231.66:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",ZEE ANMOL
+http://223.29.231.66:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",ZEE BOLLYWOOD
+http://223.29.231.66:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",ZEE CINEMA HD
+http://223.29.231.66:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",ZEE Cafe HD 
+http://223.29.231.66:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",ZEE TV HD
+http://223.29.231.66:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",ZEE Anmol Cinema
+http://223.29.231.66:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Zoom 
+http://223.29.231.66:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",bindass
+http://223.29.231.66:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Colour Cineplex HD
+http://223.29.231.66:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Colors Rishtey
+http://223.29.231.66:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Colors Infinity HD
+http://223.29.231.66:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Hungama
+http://223.29.231.66:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Nick
+http://223.29.231.66:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🆃🅰🆃🅰 🅿🅻🅰🆈 ❻.☯  🅱🆈 🅳🅴🅽🆅🅴🆁",Nick HD+
+http://223.29.231.66:8000/play/a00x/index.m3u8
