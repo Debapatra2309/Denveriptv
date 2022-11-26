@@ -1,0 +1,290 @@
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",INDIA TODAY
+ https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",AAJ TAK HD
+ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="B4U MOVIES" tvg-logo="" group-title="DISH TV BY DENVER IPTV",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="BOX CINEMA" tvg-logo="" group-title="DISH TV BY DENVER IPTV",BOX CINEMA
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",COLORS HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="DHINCHAAK" tvg-logo="" group-title="DISH TV BY DENVER IPTV",DHINCHAAK
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="DHINCHAAK 2" tvg-logo="" group-title="DISH TV BY DENVER IPTV",DHINCHAAK 2
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="DISHUM TV" tvg-logo="" group-title="DISH TV BY DENVER IPTV",DISHUM TV
+http://14.199.164.20:4001/play/a0pe/index.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="MN PLUS " tvg-logo="" group-title="DISH TV BY DENVER IPTV",MN PLUS 
+http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="MTV BEATS HD " tvg-logo="" group-title="DISH TV BY DENVER IPTV",MTV BEATS HD 
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="MUSIC INDIA" tvg-logo="" group-title="DISH TV BY DENVER IPTV",MUSIC INDIA
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="Nation geography hd" tvg-logo="" group-title="DISH TV BY DENVER IPTV",Nation geography hd
+http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:-1 (no tvg-id)Max" tvg-logo="" group-title="DISH TV BY DENVER IPTV",Sony Max
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
+#EXTINF:-1 (no tvg-id)MAX 2" tvg-logo="" group-title="DISH TV BY DENVER IPTV",SONY MAX 2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)PIX" tvg-logo="" group-title="DISH TV BY DENVER IPTV",SONY PIX
+http://live.flixhub.net/hls/sonypixhd.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR GOLD HD 
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="ZEE ACTION " tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE ACTION 
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="ZEE ANMOL CINEMA " tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE ANMOL CINEMA 
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="ZEE CINEMA HD " tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE CINEMA HD 
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)" tvg-name="ZEE CLASSIC " tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE CLASSIC 
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 STAR PLUS HD" tvg-name="STAR PLUS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 STAR BHARAT HD" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 STAR PLUS HD" tvg-name="STAR PLUS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 ZEE TV HD" tvg-name="ZEE TV" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE TV
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 ZEE TV HD" tvg-name="ZEE TV HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 COLORS HD" tvg-name="COLORS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 COLORS HD" tvg-name="COLORS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
+#EXTINF:-1 SAHARA ONE" tvg-name="SAHARA ONE" tvg-logo="" group-title="DISH TV BY DENVER IPTV",SAHARA ONE
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1 UTV HD" tvg-name="UTV HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 STAR GOLD HD" tvg-name="STAR GOLD HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 STAR GOLD HD" tvg-name="STAR GOLD HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 STAR GOLD 2" tvg-name="STAR GOLD 2" tvg-logo="" group-title="DISH TV BY DENVER IPTV",STAR GOLD 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ZEE CINEMA HD" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE CINEMA HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ZEE CLASSIC" tvg-name="ZEE CLASSIC" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE CLASSIC
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ZEE ACTION" tvg-name="ZEE ACTION" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE ACTION
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ZEE ANMOL CINEMA" tvg-name="ZEE ANMOL CINEMA" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 (no tvg-id)MAX 2" tvg-logo="SONY MAX 2" group-title="DISH TV BY DENVER IPTV",SONY MAX 2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 B4U MOVIES" tvg-name="B4U MOVIES" tvg-logo="" group-title="DISH TV BY DENVER IPTV",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 E24" tvg-name="E24" tvg-logo="" group-title="DISH TV BY DENVER IPTV",E24
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ZOOM" tvg-name="ZOOM" tvg-logo="" group-title="DISH TV BY DENVER IPTV",ZOOM
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 MTV" tvg-name="MTV" tvg-logo="" group-title="DISH TV BY DENVER IPTV",MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 MTV BEATS HD" tvg-name="MTV BEATS HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",MTV BEATS HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 001" tvg-name="" tvg-logo="" group-title="DISH TV BY DENVER IPTV",Star Gold Select HD
+http://103.153.39.36:8000/play/a014
+#EXTINF:-1 001" tvg-name="Star Plus HD" tvg-logo="" group-title="DISH TV BY DENVER IPTV",Star Plus HD
+http://103.153.39.36:8000/play/a00m
+#EXTINF:-1 001" tvg-name="" tvg-logo="" group-title="DISH TV BY DENVER IPTV",Star Sports 1 Hindi HD
+http://103.153.39.36:8000/play/a026
+#EXTINF:-1 001" tvg-name="" tvg-logo="" group-title="DISH TV BY DENVER IPTV",Star Movies Select HD
+http://103.153.39.36:8000/play/a00w
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS HD
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SAHARA ONE
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",STAR GOLD 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE CINEMA HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE CLASSIC
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE ACTION
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE ANMOL CINEMA
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",E24
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",B4U MUSIC
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",MTV BEATS HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",UTV ACTION
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",BT SPORTS 1 HD
+https://webudi.openhd.lol/ddy1/premium31/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",BT SPORTS 2 HD 
+https://webudi.openhd.lol/ddy1/premium32/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",BT SPORTS 3 HD 
+https://webudi.openhd.lol/ddy1/premium33/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",FOX 501 HD
+https://webdi.openhd.lol/ddyx2/premium369/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",DD NATIONAL
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",DD RETRO
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",MUSIC INDIA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",NDTV NEWS
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE NEWS
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_6.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE ANMOL CINEMA
+http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE ANMOL CINEMA
+http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS CINEPLEX HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/index.m3u8?hdnts=st=1669440763~exp=1669527163~acl=/*~hmac=847537cb8ce2eea4f639d7d99ae79ee8fcedcb49d6870f7aaaae6ab63b1feaca
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",MTV + HD
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1669440831~exp=1669527231~acl=/*~hmac=f745993b38c5f5d8e2d473edff3c2ba969c760083ead0de5276ee090d305f0fc
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",MTV HD 
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1669440870~exp=1669527270~acl=/*~hmac=11c01f5c57aea39b7a4df7ebd2965894f70dfaba1cf0ccb8b73177ab7269ce10
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",Colors SD
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1669440907~exp=1669527307~acl=/*~hmac=1c804cc57300cc1161b4f7f036fcd4fa347540477d41e7403034689d7c403eca
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS HD
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?hdnts=st=1669440936~exp=1669527336~acl=/*~hmac=19e8b0483990bdc464e43bb4c808316999bc0d4b371011ebcadf7ccdce8373fa
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS INFINITY
+http://techmaxlive.ml/live.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS MARATHI HD
+
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS TAMIL
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Tamil_HD_voot_MOB/output03/index.m3u8?hdnts=st=1669441151~exp=1669527551~acl=/*~hmac=3f99001bfe5afc0d42781d27fc1a6eafe3fc56ed406473fbac79abd2017a7c98
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",M3U BEATS
+https://3uog.short.gy/M3U BEATS.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",NICK HD
+http://techmaxlive.ml/live.php?c=Nick_HD_Plus&q=1200&e=junk.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONIC
+http://techmaxlive.ml/live.php?c=sonic_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SPORTS 18 HD
+http://iamsom69.herokuapp.com/voot.php?url=https://www.voot.com/live/sports18/1301985
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",COLORS BANGLA
+http://208.86.19.13:81/904.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",PTC CHALDE
+http://208.86.19.13:81/704.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MARATHI
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MAX
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",MUSIC INDIA
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",REPUBLIC TV
+http://208.86.19.13:81/727.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",ZEE ANMOL CINEMA
+http://208.86.19.13:81/722.stream/index.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 Sony_SAB.png" ,SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MARATHI
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MAX
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1  Sony_Six_SD.png" ,SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",Star Sports 1 HD
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1877
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",Star Sports 1 HD
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15725
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",Star Sports 2 HD
+http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/15726
+#EXTINF:-1 " tvg-name="" tvg-logo="" group-title="TATA PLAY 7.0 BY DENVER IPTV",Star Sports 2 HD
+http://iptv.ndasat.xyz:88/Ousama-ar/6bsW266AcW/1878
